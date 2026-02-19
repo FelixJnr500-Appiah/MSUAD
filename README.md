@@ -28,3 +28,12 @@ The framework utilizes a **Teacher-Student Distillation** architecture to improv
 ├── tests/                  # Statistical consistency checks
 ├── configs/                # Hydra/YAML experiment configs
 └── README.md
+
+
+🛠 Tech Stack
+Core: Python, PyTorch, GPyTorch
+Statistical ML: DoubleML, Scikit-Learn
+Infrastructure: Slurm, Linux/Bash, Git
+
+📑 Confidentiality Note
+The full source code for the MSUAD framework is currently under peer review as part of a Doctoral Dissertation at the University of Northern Colorado. Publicly available files demonstrate architectural patterns and API design.
